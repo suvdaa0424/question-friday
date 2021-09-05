@@ -1,0 +1,9 @@
+pets and owners = many to many
+blog post and authors = one to many
+teachers and students = many to many
+car and registration = one to one
+parents and children = Many to many
+owners and cars = many to many
+passport and citizen = one to many
+projects and contributors = one to many
+instagram photo and tags = many to many
